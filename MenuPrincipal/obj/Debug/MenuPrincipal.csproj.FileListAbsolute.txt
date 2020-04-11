@@ -1,0 +1,30 @@
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csprojAssemblyReference.cache
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csproj.GenerateResource.cache
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Proveedores.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Inicio.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Login.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.MenuPrincipal.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Empleado.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Inventario.resources
+C:\Users\user\Videos\Proyecto Desarrollo\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Compras.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csprojAssemblyReference.cache
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Empleado.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Inicio.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Inventario.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Login.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.MenuPrincipal.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Proveedores.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Compras.resources
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csproj.GenerateResource.cache
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\user\Downloads\MenuPrincipal\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
